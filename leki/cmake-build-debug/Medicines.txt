@@ -1,0 +1,3 @@
+1	Apap	10	90	3,4
+2	Xylometazolin	20	60	2
+3	Gripex	20	45	1,4,3

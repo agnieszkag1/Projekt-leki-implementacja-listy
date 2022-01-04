@@ -1,0 +1,4 @@
+1	Kaszel
+2	Katar
+3	Bol_glowy
+4	Goraczka

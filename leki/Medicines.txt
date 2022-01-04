@@ -1,0 +1,13 @@
+1	Apap	10	90	3,4
+2	Xylometazolin	20	60	2
+3	Gripex	20	45	1,4,3
+4	Acnex krem	15	35 14
+5	Carbosal	12	87	5
+6	Cynacholin	18	90	5
+7	Otrivin		18	90	2
+8	Coldrex	16	88	2,3,4
+9	Nurofen	20	100	3,4,6,7,8,9
+10
+11
+12
+14

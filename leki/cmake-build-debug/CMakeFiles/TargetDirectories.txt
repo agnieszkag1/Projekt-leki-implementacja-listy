@@ -1,0 +1,3 @@
+C:/Users/Agnieszka/Desktop/cf277693-gr28-repo/Projekt/leki/cmake-build-debug/CMakeFiles/leki.dir
+C:/Users/Agnieszka/Desktop/cf277693-gr28-repo/Projekt/leki/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Agnieszka/Desktop/cf277693-gr28-repo/Projekt/leki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
